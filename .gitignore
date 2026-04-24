@@ -1,0 +1,4 @@
+*.xlsx
+OriginalDataset
+CleanDataset
+.vsocode
