@@ -1,4 +1,5 @@
 *.xlsx
 OriginalDataset
 CleanDataset
-.vsocode
+.vscode
+.venv
